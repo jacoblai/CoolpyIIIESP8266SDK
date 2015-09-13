@@ -63,6 +63,7 @@
     <Content Include="Tools\nodemcu-flasher.zip" />
     <Content Include="Tools\nodemcu_float_0.9.6-dev_20150704.bin" />
     <Content Include="HTTP\POST\init.lua" />
+    <Content Include="HTTP\GET\init.lua" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
